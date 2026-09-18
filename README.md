@@ -1,108 +1,82 @@
 <div align="center">
 
-# 🩸 RED-SHINOB 🩸
+# 🩸 RED-SHINOB
 
-### `SHADOW • INK • CRIMSON • MOTION`
-
-<img src="./assets/red.PNG" alt="Red-Shinob Anime Artwork" width="520"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ANIME-INSPIRED-7C00FF?style=for-the-badge&labelColor=090A0F">
-<img src="https://img.shields.io/badge/MANGA-ART-00AEEF?style=for-the-badge&labelColor=090A0F">
-<img src="https://img.shields.io/badge/CRIMSON-INK-EF233C?style=for-the-badge&labelColor=090A0F">
-<img src="https://img.shields.io/badge/PORTFOLIO-2026-B7FF00?style=for-the-badge&labelColor=090A0F">
-
-<br><br>
-
-> **“FORGED IN SHADOW. MARKED IN RED.”**
-
-</div>
-
----
-
-# ⚡ RED-SHINOB
-
-**Red-Shinob** is an anime-inspired creative portfolio experience built around
-bold typography, cinematic motion, manga aesthetics and a striking
-**black × purple × neon green × crimson** visual language.
-
-The project combines a personal creative portfolio with an anime-inspired
-art direction to create a website that feels more like a **digital anime opening**
-than a traditional portfolio.
-
----
-
-<div align="center">
-
-## 🌀 THE EXPERIENCE
-
-### `CREATE SOMETHING AWESOME.`
-
-**2D Animator • Motion Designer • Video Editor**
+### `ANIME • MOTION • ART • CODE`
 
 <br>
 
-`🎬 MOTION` &nbsp; `🎨 ART` &nbsp; `⚡ ANIMATION` &nbsp; `🩸 ANIME`
+<img src="./assets/shinobi-sticker.png" width="520" alt="Red-Shinob Anime Artwork">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&duration=2500&pause=800&color=B7FF00&center=true&vCenter=true&width=700&lines=CREATE+SOMETHING+AWESOME.;2D+ANIMATOR;MOTION+DESIGNER;VIDEO+EDITOR;FORGED+IN+SHADOW.;MARKED+IN+RED." alt="Red-Shinob typing animation">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ANIME-INSPIRED-7C00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/MOTION-DESIGN-EF233C?style=for-the-badge">
+<img src="https://img.shields.io/badge/CREATIVE-PORTFOLIO-B7FF00?style=for-the-badge&labelColor=111111">
 
 </div>
 
 ---
 
-# 🎴 VISUAL IDENTITY
+## 🩸 RED-SHINOB
 
-<table>
-<tr>
-<td align="center">⚫<br><b>BLACK</b><br><sub>Dark Canvas</sub></td>
-<td align="center">🟣<br><b>PURPLE</b><br><sub>Energy</sub></td>
-<td align="center">🟢<br><b>NEON</b><br><sub>Highlights</sub></td>
-<td align="center">🔴<br><b>CRIMSON</b><br><sub>Shinobi Spirit</sub></td>
-<td align="center">🔵<br><b>CYAN</b><br><sub>Creative Energy</sub></td>
-</tr>
-</table>
+> **A creative portfolio where anime aesthetics meet motion, design and storytelling.**
 
----
+**Red-Shinob** is a dark, anime-inspired portfolio website created around
+bold typography, cinematic visuals, neon colors and manga-style artwork.
 
-# 🩸 ABOUT THE ARTWORK
+The visual identity combines:
 
-The central artwork uses a bold manga-inspired composition featuring:
-
-- 🌀 Shinobi-inspired character design
-- 🖋️ Black-and-white ink treatment
-- 🔴 Crimson red graphic elements
-- ✂️ Die-cut sticker styling
-- 🎴 Japanese-inspired visual details
-- ⚡ High-contrast anime aesthetics
-
-The artwork acts as the visual identity of **Red-Shinob**.
+**Black × Purple × Neon Green × Cyan × Crimson**
 
 ---
+
+## ⚡ CREATIVE IDENTITY
 
 <div align="center">
 
-<img src="./assets/shinobi-sticker.png" alt="Red-Shinob Sticker Artwork" width="650"/>
-
-### `BLACK INK. WHITE SILENCE. RED CHAOS.`
+`🎨 ART` &nbsp;&nbsp;
+`🎬 MOTION` &nbsp;&nbsp;
+`⚡ ANIMATION` &nbsp;&nbsp;
+`🌀 ANIME` &nbsp;&nbsp;
+`💻 CODE`
 
 </div>
 
+### Creator
+
+**Ankit Sharma**
+
+- 🎨 2D Animator
+- 🎬 Motion Designer
+- 🎥 Video Editor
+- 💻 Creative Developer
+
 ---
 
-# ✨ WEBSITE FEATURES
+## 🌀 THE CONCEPT
+
+The website is designed to feel less like a traditional portfolio
+and more like entering a small anime universe.
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│              🩸 RED-SHINOB                   │
-│                                              │
-│       ⚡ CREATIVE PORTFOLIO EXPERIENCE       │
-│                                              │
-│   ┌────────┐  ┌────────┐  ┌────────┐         │
-│   │  HOME  │  │PROJECTS│  │ ABOUT  │         │
-│   └────────┘  └────────┘  └────────┘         │
-│                                              │
-│       🎬 SHOWREEL      🎨 PROJECTS           │
-│                                              │
-│          🌀 ANIME × MOTION × ART             │
-│                                              │
-└──────────────────────────────────────────────┘
+                    RED-SHINOB
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+           SHADOW                  MOTION
+             │                       │
+             ▼                       ▼
+            INK                    ENERGY
+             │                       │
+             └───────────┬───────────┘
+                         │
+                         ▼
+                       ART
+                         │
+                         ▼
+                      STORY
