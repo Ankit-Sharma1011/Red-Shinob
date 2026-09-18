@@ -1,31 +1,83 @@
-# ANKKIT. Portfolio — editable source
+<div align="center">
 
-## Run
-Open `index.html` directly in a browser, or use VS Code Live Server.
+# 🩸 RED-SHINOB 🩸
 
-## Change images
-Permanent images go in `assets/`.
-Edit the `src="assets/..."` values in `index.html`.
+### `SHADOW • INK • CRIMSON`
 
-Suggested files:
-- assets/hero.png
-- assets/showreel.jpg
-- assets/project-1.jpg
-- assets/project-2.jpg
-- assets/project-3.jpg
-- assets/project-4.jpg
-- assets/about.jpg
+<img src="./assets/shinobi-sticker.png" alt="Red-Shinob Artwork" width="500"/>
 
-## Change design
-All major colors are CSS variables at the top of `style.css`:
---bg
---card
---text
---accent
---purple
---blue
+<br>
 
-There is also a floating **⚙ Edit** button on the page. It lets you change colors, display font, and temporarily replace images without touching the code.
+### ⚡ ANIME INSPIRED • MANGA INK • STICKER ART ⚡
 
-## Important
-The supplied screenshot is used as a visual reference. The exact character artwork/fonts from a reference image may be separately owned/licensed, so replace the placeholders with artwork/assets you have permission to use.
+<p>
+  <img src="https://img.shields.io/badge/Style-Anime-ef233c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Art-Manga_Ink-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Theme-Shinobi-8b0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Year-2026-ef233c?style=for-the-badge">
+</p>
+
+</div>
+
+---
+
+## 🩸 ABOUT RED-SHINOB
+
+> **"Where shadows fade, the red remains."**
+
+**Red-Shinob** is an anime-inspired digital artwork project built around
+a powerful combination of **black, white, and crimson red**.
+
+The artwork blends:
+
+- 🖤 High-contrast manga aesthetics
+- 🩸 Crimson visual accents
+- 🌀 Shinobi-inspired symbolism
+- 🖋️ Ink and stencil illustration
+- ✂️ Die-cut sticker styling
+- ⚡ Dark cinematic energy
+
+The idea was to create something that feels like a **lost page from a
+shinobi legend — transformed into a modern collectible sticker.**
+
+---
+
+## 🎴 THE ART
+
+<div align="center">
+
+<img src="./assets/shinobi-sticker.png" width="600" alt="Red-Shinob">
+
+### `BLACK INK. WHITE SILENCE. RED CHAOS.`
+
+</div>
+
+---
+
+## ⚔️ DESIGN LANGUAGE
+
+| Element | Direction |
+| :--- | :--- |
+| 🎨 Color Palette | Black • White • Crimson |
+| 🖋️ Illustration | Manga / Ink / Stencil |
+| 🌀 Theme | Shinobi / Shadow / Resolve |
+| ✂️ Finish | Die-Cut Sticker |
+| 🌑 Mood | Dark • Mysterious • Energetic |
+| 🔥 Accent | Crimson Red |
+
+---
+
+## 🩸 THE RED CODE
+
+```text
+             █████████████
+           ██             ██
+          ██    SHADOW     ██
+          ██       ↓       ██
+          ██      INK      ██
+          ██       ↓       ██
+          ██    CRIMSON    ██
+          ██       ↓       ██
+          ██     SHINOBI   ██
+           ██             ██
+             █████████████
